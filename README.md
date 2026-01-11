@@ -20,10 +20,8 @@ a foundation for future Spring Boot and backend development.
 
 ## Repository structure
 
-- `agenda` — Simple agenda system to practice OOP, composition, and dates
-- `worker-contracts` — Income calculation using composition and enums
 - `social-posts` — Social media post simulation using composition and StringBuilder
-- `inheritance-polymorphism` — Exercises focused on inheritance and polymorphism
+- `worker-contracts` — Income calculation using composition and enums
 
 ## Status
 
